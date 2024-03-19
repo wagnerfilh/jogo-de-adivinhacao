@@ -1,5 +1,3 @@
-package jogo_de_advinhacao;
-
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 
